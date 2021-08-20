@@ -68,8 +68,8 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+* Diego Roberto Rodriguez Lopez
+* Jonathan Emir Castillo Noh
+* Karla Gabriela Martinez Ibarra
+* Olga Torres Gonzáles	
 
