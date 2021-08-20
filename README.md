@@ -71,6 +71,8 @@ National Aeronautics and Space Administration [NASA]. (2019, 19 diciembre). How 
 
 National Aeronautics and Space Administration. (2020, septiembre). NASA’s Lunar Exploration Program Overview. https://www.nasa.gov. https://www.nasa.gov/sites/default/files/atoms/files/artemis_plan-20200921.pdf
 
+Hayne, P.O., Bandfield, J.L., Siegler, M.A., Vasavada, A.R., Ghent, R.R., Williams, J.P., Greenhagen, B.T., Aharonson, O., Elder, C.M., Lucey, P.G. and Paige, D.A., 2017. Global regolith thermophysical properties of the Moon from the Diviner Lunar Radiometer Experiment. Journal of Geophysical Research: Planets. DOI: 10.1002/2017JE005387
+
 ### Equipo
 
 * Diego Roberto Rodriguez Lopez
