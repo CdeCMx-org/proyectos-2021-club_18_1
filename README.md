@@ -15,21 +15,6 @@ Describe de qué trata tu proyecto:
 * ¿cómo se relaciona con la **ODS** asignada a tu club? 
 * ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 
-Problema: Agua congelada en el hemisferio sur de la luna.  
-
-Importancia:
-
-Después de que la NASA confirmará la existencia de agua en uno de los cráteres visibles más grandes del satélite natural “Clavius” que se encuentra a temperaturas extremadamente frías de hasta 163° bajo cero, se explicó que podría ser clave para futuras misiones tripuladas. Pero, ¿para qué servirá el agua?
-Con la misión Artemisa se planea la instalación de una base permanente en la luna, la cual servirá para el apoyo de futuras misiones tripuladas que se tienen previstas para viajar a Marte en el año 2030. La cual incluirá un laboratorio científico que servirá para estudiar distintos sucesos que vayan ocurriendo durante la misión. Por tal motivo, se puede tener una reserva de agua donde puede ser estudiada para determinar si es agua potable o no, si es salada o dulce, para poder determinar qué tan funcional es y así utilizar esos recursos sin necesidad de tener que llevar grandes cantidades desde la tierra, siendo así una subestación de agua “intermedia” entre la tierra, la luna y marte. 
-
-Objetivos de desarrollo sostenible (ODS).
-
-El Objetivo de desarrollo sostenible 17, se trata de llevar a cabo alianzas con distintas organizaciones, ya sea del sector privado, sociedad civil e incluso el gobierno, donde las alianzas deben de construirse por los mismos principios y valores y a su vez tener objetivos comunes, por lo que cada parte debe aportar su experiencia y conocimiento, mediante el intercambio de conocimientos, capacidades técnicas, tecnológicas y recursos, los cuales contribuyen a la resolución del problema. Por lo que, nuestra misión tendrá una alianza con la misión “ARTEMISA” que ya tiene tiempo planificándose la cual se llevará a cabo aproximadamente para el año 2024.
-
-Relación con el club.
-
-Nuestro proyecto se relaciona con el estudio de las misiones espaciales y detectores que se nos explicaron en las distintas sesiones del club, las cuales fueron de inspiración para poder realizar nuestra misión llamada “¿La luna es de queso o de agua?”
-
 ### Métodología
 La misión que se realizará será una misión a otros cuerpos celestes, en particular será una misión a la Luna. 
 
@@ -37,9 +22,10 @@ Para realizar la misión se tiene contemplado el cohete SLS (Space Launch System
 En la etapa superior se usarán propulsores RL10 para llegar hasta Gateway y poder llevar nuestra carga útil. (National Aeronautics and Space Administration, n.d.)
 
 En la misión tras superar los limites de las señales otorgadas por el GPS y TDRS, la comunicación continuara a través de la Red del Espacio Profundo (DSN en inglés) por la cual se mantendrá comunicación con Orión.  (National Aeronautics and Space Administration, 2020)
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
 
-En la misión tras superar los limites de las señales otorgadas por el GPS y TDRS, la comunicación continuara a través de la Red del Espacio Profundo (DSN en inglés) por la cual se mantendrá comunicación con Orión.  (National Aeronautics and Space Administration, 2020)
+Investigaciones anteriores ya han demostrado que existen “trampas de frío” de kilómetros de ancho en áreas permanentemente sombreadas cerca de los polos donde puede haber hielo de agua. Según los últimos cálculos, el polo norte del satélite podría atesorar 600 millones de toneladas de este recurso esencial para los seres humanos. El problema es que las observaciones no son concluyentes: la luz infrarroja reflejada no permite saber si es agua (H2O) o grupos de hidroxilo (OH).
+
+Considerando lo anterior, se propone incluir un esprectómetro UV -VIS con lámpara de xenon que analice una muestra de agua de la luna y permita comparar su espectro con uno correspondiente al agua de la tierra, de esta forma se puede averiguar qué composición tiene la muestra analizada y permitiría dar paso a investigar cómo extraerla y para qué conviene emplearla. Sin duda integrar el esprectómetro de IR vale la pena para evaluar la temperatura de las fuentes de agua y complementar el estudio, así como proveer una herramienta para evaluar la superficie y encontrar fácilmente las trampas de frío en regiones no exploradas previamente.
 
 Entre 2 semanas y 1 mes, es lo necesario para desplegar el equipo correspondiente para realizar la misión. (esto basado en la duración de Artemis 1 que desplegara CubeSats) 
 
@@ -68,8 +54,8 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Diego Roberto Rodriguez Lopez
-* Jonathan Emir Castillo Noh
-* Karla Gabriela Martinez Ibarra
-* Olga Torres Gonzáles	
+* Estudiante 1
+* Estudiante 2
+* Estudiante 3
+* Estudiante 4
 
