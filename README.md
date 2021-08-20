@@ -63,6 +63,14 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
+### Bibliografía 
+
+National Aeronautics and Space Administration. (n.d) Space Launch System [Fact sheet].  https://www.nasa.gov/sites/default/files/atoms/files/0080_sls_fact_sheet_sept2020_09082020_final_0.pdf
+
+National Aeronautics and Space Administration [NASA]. (2019, 19 diciembre). How We Are Going to the Moon - 4K [Vídeo]. YouTube. https://www.youtube.com/watch?v=_T8cn2J13-4
+
+National Aeronautics and Space Administration. (2020, septiembre). NASA’s Lunar Exploration Program Overview. https://www.nasa.gov. https://www.nasa.gov/sites/default/files/atoms/files/artemis_plan-20200921.pdf
+
 ### Equipo
 
 * Diego Roberto Rodriguez Lopez
