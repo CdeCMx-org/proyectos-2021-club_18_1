@@ -35,9 +35,7 @@ Entre 2 semanas y 1 mes, es lo necesario para desplegar el equipo correspondient
 
 ### Resultados
 
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
-
-
+Dado a que nuestro proyecto es una propuesta de colaboración de la misión artemisa nuestros resultados podrían ser considerados la información e investigación ya incluida en los demás apartados.
 
 ### Conclusiones
 
