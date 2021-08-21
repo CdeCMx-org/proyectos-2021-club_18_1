@@ -41,6 +41,10 @@ Considerando lo anterior, se propone incluir un esprectómetro UV -VIS con lámp
 
 Entre 2 semanas y 1 mes, es lo necesario para desplegar el equipo correspondiente para realizar la misión. (esto basado en la duración de Artemis 1 que desplegara CubeSats) 
 
+<img src="SLS.jpg" width=550>
+
+<img src="Artemis_2.jfif" width=550>
+
 ### Resultados
 
 Dado a que nuestro proyecto es una propuesta de colaboración de la misión artemisa nuestros resultados podrían ser considerados la información e investigación ya incluida en los demás apartados.
