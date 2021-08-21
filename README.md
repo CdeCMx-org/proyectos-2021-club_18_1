@@ -41,7 +41,11 @@ Este es el momento en que nos compartas los resultados obtenidos en tu proyecto.
 
 ### Conclusiones
 
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
+Durante el desarrollo del club atravesamos diferentes tipos de retos que están relacionados con el hecho de trabajar en línea y con compañeros que viven a cientos de kilómetros de distancia, aun así, creo que al final pudimos sobreponernos y sacar las mejores cosas que el formato nos pudo ofrecer.
+
+Nuestros instructores y TA fueron de gran ayuda ya que nos otorgaron conocimientos en cosmología y misiones espaciales, así como su disposición, que al final nos inspiraron y nos hicieron investigar más allá de los contenidos vistos en las sesiones con el fin de desarrollar nuestro proyecto. 
+
+A su vez pudimos fortalecer y observar esta noción colaborativa que tiene la ciencia que nos ayuda a lograr cosas que de otra manera no nos serían posibles, así como nos deja con ganas de involucrarnos más en proyectos relacionados con las ciencias y la tecnología que tienen el potencial de ofrecer cambios en nuestra comunidad e incluso a nivel global, nosotros queremos formar parte de ese cambio. 
 
 ### ¿La luna es de queso o de agua?
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
