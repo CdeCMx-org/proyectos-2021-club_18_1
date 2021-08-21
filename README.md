@@ -15,8 +15,7 @@ Objetivos de desarrollo sostenible (ODS).
 
 El Objetivo de desarrollo sostenible 17, se trata de llevar a cabo alianzas con distintas organizaciones, ya sea del sector privado, sociedad civil e incluso el gobierno, donde las alianzas deben de construirse por los mismos principios y valores y a su vez tener objetivos comunes, por lo que cada parte debe aportar su experiencia y conocimiento, mediante el intercambio de conocimientos, capacidades técnicas, tecnológicas y recursos, los cuales contribuyen a la resolución del problema. Por lo que, nuestra misión tendrá una alianza con la misión “ARTEMISA” que ya tiene tiempo planificándose la cual se llevará a cabo aproximadamente para el año 2024.
 
-<img src="ODS.jfif" width=550>
-<img src="Artemis_1.jfif" width=550>
+<img src="ODS.jfif" width=550> <img src="Artemis_1.jfif" width=550>
 
 
 Relación con el club.
@@ -41,9 +40,7 @@ Considerando lo anterior, se propone incluir un esprectómetro UV -VIS con lámp
 
 Entre 2 semanas y 1 mes, es lo necesario para desplegar el equipo correspondiente para realizar la misión. (esto basado en la duración de Artemis 1 que desplegara CubeSats) 
 
-<img src="SLS.jpg" width=550>
-
-<img src="Artemis_2.jfif" width=550>
+<img src="SLS.jpg" width=550> <img src="Artemis_2.jfif" width=550>
 
 ### Resultados
 
