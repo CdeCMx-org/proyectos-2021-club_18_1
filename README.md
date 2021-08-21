@@ -17,6 +17,9 @@ Relación con el club.
 
 Nuestro proyecto se relaciona con el estudio de las misiones espaciales y detectores que se nos explicaron en las distintas sesiones del club, las cuales fueron de inspiración para poder realizar nuestra misión llamada “¿La luna es de queso o de agua?”
 
+mapa montañas mx.JPG
+<img src="mapa montañas mx.JPG" width=550>
+
 
 
 ### Métodología
