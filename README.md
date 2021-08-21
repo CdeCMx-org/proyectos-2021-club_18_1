@@ -55,11 +55,11 @@ Nuestros instructores y TA fueron de gran ayuda ya que nos otorgaron conocimient
 A su vez pudimos fortalecer y observar esta noción colaborativa que tiene la ciencia que nos ayuda a lograr cosas que de otra manera no nos serían posibles, así como nos deja con ganas de involucrarnos más en proyectos relacionados con las ciencias y la tecnología que tienen el potencial de ofrecer cambios en nuestra comunidad e incluso a nivel global, nosotros queremos formar parte de ese cambio. 
 
 ### ¿La luna es de queso o de agua?
- 1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
+ 
  <iframe width="560" height="315" src="https://youtu.be/vKceIPOMpvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/vKceIPOMpvA).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
+ [nuestro video](https://youtu.be/vKceIPOMpvA).
+
  
 ### Bibliografía 
 
