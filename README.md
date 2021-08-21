@@ -1,8 +1,8 @@
-## ¿La luna es de queso o de agua?
+## ¿La luna es de queso o de agua?🌕
 
 ### Introducción
 
-##Problema: Agua congelada en el hemisferio sur de la luna.  
+Problema: Agua congelada en el hemisferio sur de la luna.  
 
 <img src="Intro.jfif" width=550>
 
