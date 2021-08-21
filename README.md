@@ -79,5 +79,4 @@ Hayne, P.O., Bandfield, J.L., Siegler, M.A., Vasavada, A.R., Ghent, R.R., Willia
 * Diego Roberto Rodriguez Lopez
 * Jonathan Emir Castillo Noh
 * Karla Gabriela Martinez Ibarra
-* Olga Torres Gonzáles
-
+* Olga Alejandra Torres González
