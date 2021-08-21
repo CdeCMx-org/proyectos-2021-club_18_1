@@ -15,7 +15,7 @@ Objetivos de desarrollo sostenible (ODS).
 
 El Objetivo de desarrollo sostenible 17, se trata de llevar a cabo alianzas con distintas organizaciones, ya sea del sector privado, sociedad civil e incluso el gobierno, donde las alianzas deben de construirse por los mismos principios y valores y a su vez tener objetivos comunes, por lo que cada parte debe aportar su experiencia y conocimiento, mediante el intercambio de conocimientos, capacidades técnicas, tecnológicas y recursos, los cuales contribuyen a la resolución del problema. Por lo que, nuestra misión tendrá una alianza con la misión “ARTEMISA” que ya tiene tiempo planificándose la cual se llevará a cabo aproximadamente para el año 2024.
 
-<img src="ODS.jfif" width=550> <img src="Artemis_1.jfif" width=400>
+<img src="ODS.jfif" width=500> <img src="Artemis_1.jfif" width=450>
 
 
 Relación con el club.
