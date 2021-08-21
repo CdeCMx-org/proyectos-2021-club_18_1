@@ -2,7 +2,7 @@
 
 ### Introducción
 
-Problema: Agua congelada en el hemisferio sur de la luna.  
+##Problema: Agua congelada en el hemisferio sur de la luna.  
 
 <img src="Intro.jfif" width=550>
 
