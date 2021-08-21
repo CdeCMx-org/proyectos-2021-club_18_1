@@ -4,6 +4,8 @@
 
 Problema: Agua congelada en el hemisferio sur de la luna.  
 
+<img src="Artemis_1.jfif" width=550>
+
 Importancia:
 
 Después de que la NASA confirmará la existencia de agua en uno de los cráteres visibles más grandes del satélite natural “Clavius” que se encuentra a temperaturas extremadamente frías de hasta 163° bajo cero, se explicó que podría ser clave para futuras misiones tripuladas. Pero, ¿para qué servirá el agua?
@@ -17,8 +19,7 @@ Relación con el club.
 
 Nuestro proyecto se relaciona con el estudio de las misiones espaciales y detectores que se nos explicaron en las distintas sesiones del club, las cuales fueron de inspiración para poder realizar nuestra misión llamada “¿La luna es de queso o de agua?”
 
-mapa montañas mx.JPG
-<img src="mapa montañas mx.JPG" width=550>
+
 
 
 
